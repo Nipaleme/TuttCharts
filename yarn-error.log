@@ -1,0 +1,59 @@
+Arguments: 
+  /Users/adrien/.nvm/versions/node/v20.3.1/bin/node /Users/adrien/.nvm/versions/node/v20.3.1/bin/yarn
+
+PATH: 
+  /Users/adrien/.pyenv/shims:/opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/usr/local/sbin:/opt/homebrew/bin:/opt/homebrew/sbin:/Users/adrien/.nvm/versions/node/v20.3.1/bin:/usr/local/bin:/usr/local/sbin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/Library/Apple/usr/bin:/Library/TeX/texbin:/Users/adrien/miniforge3/bin:/Users/adrien/miniforge3/condabin:/opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/sbin:/Users/adrien/.nvm/versions/node/v20.3.1/bin
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  20.3.1
+
+Platform: 
+  darwin arm64
+
+Trace: 
+  Error: getaddrinfo ENOTFOUND registry.yarnpkg.com
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26)
+
+npm manifest: 
+  {
+    "dependencies": {
+      "@emotion/react": "latest",
+      "@emotion/styled": "latest",
+      "@mui/material": "latest",
+      "@mui/x-charts": "latest",
+      "@types/react": "latest",
+      "@types/react-dom": "latest",
+      "react": "latest",
+      "react-dom": "latest",
+      "typescript": "latest"
+    },
+    "description": "https://github.com/mui/mui-x/blob/v6.18.4/docs/data/charts/getting-started/Combining.tsx",
+    "devDependencies": {
+      "react-scripts": "latest"
+    },
+    "main": "index.tsx",
+    "scripts": {
+      "start": "react-scripts start"
+    },
+    "browserslist": {
+      "production": [
+        ">0.2%",
+        "not dead",
+        "not op_mini all"
+      ],
+      "development": [
+        "last 1 chrome version",
+        "last 1 firefox version",
+        "last 1 safari version"
+      ]
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile

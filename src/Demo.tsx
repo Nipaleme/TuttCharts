@@ -1,7 +1,6 @@
 import * as React from "react";
 import { BarChart, BarPlot } from "@mui/x-charts/BarChart";
 import { LinePlot } from "@mui/x-charts/LineChart";
-import { ChartContainer } from "@mui/x-charts/ChartContainer";
 import { AllSeriesType, AxisConfig, ScaleName } from "@mui/x-charts/models";
 import { ChartsXAxis } from "@mui/x-charts/ChartsXAxis";
 import { ChartsYAxis } from "@mui/x-charts/ChartsYAxis";

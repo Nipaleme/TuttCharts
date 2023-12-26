@@ -11,6 +11,7 @@
     "react-dom": "latest",
     "typescript": "latest"
   },
+  "homepage": "https://nipaleme.github.io/TuttCharts/",
   "description": "https://github.com/mui/mui-x/blob/v6.18.4/docs/data/charts/getting-started/Combining.tsx",
   "devDependencies": {
     "react-scripts": "latest"

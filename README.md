@@ -1,6 +1,6 @@
 # TuttCharts
 
-Web based UI to visualize with charts pitch.out files from the Tutt Software.
+This project is a Web based UI to help flute and wind instrument maker to visualize with charts the pitch.out files from the Tutt Software. Online link instanced can be found here : [nipaleme.github.io/TuttCharts/](nipaleme.github.io/TuttCharts/) 
 
 _**Links:**_ 
 
